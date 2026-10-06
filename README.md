@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Data Analysis & BI Projects  
 - 🌱 I’m currently learning Advanced Data Analysis & Visualization  
 - 📊 Passionate about turning raw data into meaningful insights  
-- 💬 Ask me about SQL, Power BI, Excel, and Data Visualization  
+- 💬 Ask me about python, SQL, Power BI, Excel, and Data Visualization  
 - 📫 Reach me: madkourmohamed88@gmail.com  
 
 -----------------------------------------------------------------
